@@ -15,9 +15,10 @@ include_once("includes/header.php");
   include_once("includes/menu_text.php");
   ?>
 
-    <?php
-    include_once("includes/about.php");
-    ?>
+  <?php
+  include_once("includes/about.php");
+  ?>
+  
 
     <div class="left-image-decor"></div>
 
