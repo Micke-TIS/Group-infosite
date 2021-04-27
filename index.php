@@ -21,9 +21,7 @@ include_once("includes/header.php");
 
     <div class="left-image-decor"></div>
 
-    <?php
-    include_once("includes/Big_item_start.php");
-    ?>
+    
 
     <div class="right-image-decor"></div>
 
