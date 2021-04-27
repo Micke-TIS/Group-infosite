@@ -2,7 +2,7 @@
 include_once("includes/header.php");
 ?>
 
-<body>
+
 
 
 
@@ -22,7 +22,7 @@ include_once("includes/header.php");
 
     <div class="left-image-decor"></div>
 
-  
+
 
 
     <div class="right-image-decor"></div>
