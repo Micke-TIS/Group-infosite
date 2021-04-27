@@ -4,9 +4,7 @@ include_once("includes/header.php");
 
 <body>
 
-  <?php
-  include_once("includes/preloader.php");
-  ?>
+  
 
   <?php
   include_once("includes/menu_area.php");
