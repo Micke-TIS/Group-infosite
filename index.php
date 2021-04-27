@@ -65,12 +65,8 @@ include_once("includes/header.php");
         </div>
     </section>
     <!-- ***** Features Big Item End ***** -->
-=======
-
->>>>>>> 0c654a491d103eb6806b59d39b5b1a41c37ad076
 
 
-<<<<<<< HEAD
     <div class="right-image-decor"></div>
     <!-- ***** Testimonials Starts ***** -->
     <section class="section" id="testimonials">
@@ -163,11 +159,7 @@ include_once("includes/header.php");
     <!-- ***** Testimonials Ends ***** -->
 
 
-=======
-    <?php
-    include_once("includes/testimonials.php");
-    ?>
->>>>>>> 0c654a491d103eb6806b59d39b5b1a41c37ad076
+
 
     <?php
     include_once("includes/footer.php");
