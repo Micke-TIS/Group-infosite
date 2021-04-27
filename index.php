@@ -4,15 +4,6 @@ include_once("includes/header.php");
 
 <body>
 
-    <!-- ***** Preloader Start ***** -->
-    <div id="preloader">
-        <div class="jumper">
-            <div></div>
-            <div></div>
-            <div></div>
-        </div>
-    </div>
-    <!-- ***** Preloader End ***** -->
 
 
     <!-- ***** Header Area Start ***** -->
