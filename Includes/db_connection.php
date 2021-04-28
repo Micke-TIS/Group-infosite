@@ -2,7 +2,7 @@
 //Database connection
 $servername='localhost';
 $username='root';
-$password='1234';
+$password='';
 $dbname = "example";
 $conn=mysqli_connect($servername,$username,$password,"$dbname");
 if(!$conn){
