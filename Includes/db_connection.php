@@ -15,7 +15,7 @@ while($row = mysqli_fetch_assoc($query))
 {
 $menu_about = $row['about'];
 $menu_features = $row['features'];
-$menu_about = $row['about'];
-$menu_about = $row['about'];
+$menu_faq = $row['faq'];
+$menu_blog = $row['blog'];
 }
 ?>
