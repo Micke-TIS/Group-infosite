@@ -2,7 +2,7 @@
 //Database connection
 $servername='localhost';
 $username='root';
-$password='';
+$password='1234';
 $dbname = "example";
 $conn=mysqli_connect($servername,$username,$password,"$dbname");
 if(!$conn){
@@ -15,5 +15,7 @@ while($row = mysqli_fetch_assoc($query))
 {
 $menu_about = $row['about'];
 $menu_features = $row['features'];
+$menu_about = $row['about'];
+$menu_about = $row['about'];
 }
 ?>
