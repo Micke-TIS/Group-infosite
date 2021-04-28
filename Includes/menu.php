@@ -7,7 +7,7 @@
     <li class="submenu">
         <a href="javascript:;">Drop Down</a>
         <ul>
-            <li><a href="" class="menu-item">About Us</a></li>
+            <li><a href="" class="menu-item"><?php echo $about; ?></a></li>
             <li><a href="" class="menu-item">Features</a></li>
             <li><a href="" class="menu-item">FAQ's</a></li>
             <li><a href="" class="menu-item">Blog</a></li>
