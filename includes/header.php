@@ -28,3 +28,10 @@ https://templatemo.com/tm-540-lava-landing-page
     <link rel="stylesheet" href="assets/css/owl-carousel.css">
 
 </head>
+
+<?php
+include 'db_connection.php';
+$conn = OpenCon();
+echo "Connected Successfully";
+CloseCon($conn);
+?>
