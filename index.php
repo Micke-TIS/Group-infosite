@@ -3,7 +3,9 @@ include_once("includes/header.php");
 ?>
 
 
-
+<?php
+include_once("includes/db_connection.php");
+?>
 
 
   <?php
