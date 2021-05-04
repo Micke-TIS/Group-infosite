@@ -11,10 +11,10 @@ include_once("config.php");
     <li class="submenu">
         <a href="javascript:;">Drop Down</a>
         <ul>
-            <li><a href="" class="menu-item"><?php echo $about; ?></a></li>
-            <li><a href="" class="menu-item"><?php echo $features; ?></a></li>
-            <li><a href="" class="menu-item"><?php echo $faq; ?>'s</a></li>
-            <li><a href="" class="menu-item"><?php echo $blog; ?></a></li>
+            <li><a href="" class="menu-item"><?php echo $menu_about; ?></a></li>
+            <li><a href="" class="menu-item"><?php echo $menu_features; ?></a></li>
+            <li><a href="" class="menu-item"><?php echo $menu_faq; ?></a></li>
+            <li><a href="" class="menu-item"><?php echo $menu_blog; ?></a></li>
         </ul>
     </li>
     <li class="scroll-to-section"><a href="#contact-us" class="menu-item"><?php echo $contact; ?></a></li>
