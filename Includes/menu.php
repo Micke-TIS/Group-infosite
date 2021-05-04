@@ -1,3 +1,7 @@
+<?php
+include_once("includes/db_connection.php");
+?>
+
 <!-- ***** Menu Start ***** -->
 <ul class="nav">
     <li class="scroll-to-section"><a href="#welcome" class="menu-item">Home</a></li>
