@@ -28,6 +28,3 @@ https://templatemo.com/tm-540-lava-landing-page
     <link rel="stylesheet" href="assets/css/owl-carousel.css">
 
 </head>
-<?php
-include_once("includes/db_connection.php");
-?>
