@@ -17,7 +17,7 @@ include_once("config.php");
             <li><a href="" class="menu-item"><?php echo $menu_blog; ?></a></li>
         </ul>
     </li>
-    <li class="scroll-to-section"><a href="#contact-us" class="menu-item"><?php echo $contact; ?></a></li>
+    <li class="scroll-to-section"><a href="#contact-us" class="menu-item"><?php echo $menu_contact; ?></a></li>
 </ul>
 <a class='menu-trigger'>
     <span>Menu</span>
