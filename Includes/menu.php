@@ -8,12 +8,12 @@
         <a href="javascript:;">Drop Down</a>
         <ul>
             <li><a href="" class="menu-item"><?php echo $about; ?></a></li>
-            <li><a href="" class="menu-item">Features</a></li>
-            <li><a href="" class="menu-item">FAQ's</a></li>
-            <li><a href="" class="menu-item">Blog</a></li>
+            <li><a href="" class="menu-item"><?php echo $features; ?></a></li>
+            <li><a href="" class="menu-item"><?php echo $faq; ?>'s</a></li>
+            <li><a href="" class="menu-item"><?php echo $blog; ?></a></li>
         </ul>
     </li>
-    <li class="scroll-to-section"><a href="#contact-us" class="menu-item">Contact Us</a></li>
+    <li class="scroll-to-section"><a href="#contact-us" class="menu-item"><?php echo $contact us; ?></a></li>
 </ul>
 <a class='menu-trigger'>
     <span>Menu</span>
