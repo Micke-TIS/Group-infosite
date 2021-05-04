@@ -21,10 +21,3 @@ $menu_blog = $row['menu_blog'];
 $menu_contact = $row['menu_contact'];
 }
 ?>
-
-<?php
-include 'db_connection.php';
-$conn = OpenCon();
-echo "Connected Successfully";
-CloseCon($conn);
-?>
