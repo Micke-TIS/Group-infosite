@@ -17,6 +17,6 @@ $menu_about = $row['about'];
 $menu_features = $row['features'];
 $menu_faq = $row['faq'];
 $menu_blog = $row['blog'];
-$menu-item = $row['contact us'];
+$menu_contact = $row['contact'];
 }
 ?>

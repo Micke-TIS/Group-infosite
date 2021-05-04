@@ -13,7 +13,7 @@
             <li><a href="" class="menu-item"><?php echo $blog; ?></a></li>
         </ul>
     </li>
-    <li class="scroll-to-section"><a href="#contact-us" class="menu-item"><?php echo $contact us; ?></a></li>
+    <li class="scroll-to-section"><a href="#contact-us" class="menu-item"><?php echo $contact; ?></a></li>
 </ul>
 <a class='menu-trigger'>
     <span>Menu</span>
