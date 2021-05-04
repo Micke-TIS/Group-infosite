@@ -1,5 +1,5 @@
 <?php
-include_once("includes/db_connection.php");
+include_once("config.php");
 ?>
 
 <!-- ***** Menu Start ***** -->

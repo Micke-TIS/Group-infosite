@@ -11,7 +11,7 @@
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <?php
-                    include_once("includes/menu.php");
+                    include_once("menu.php");
                     ?>
                     <!-- ***** Menu End ***** -->
                 </nav>
