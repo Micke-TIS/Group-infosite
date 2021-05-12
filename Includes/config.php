@@ -29,4 +29,14 @@ $menu_h1 = $row['menu_h1'];
 $menu_paragrapth = $row['menu_paragrapth'];
 
 }
+
+//Select specific columns from tbl_footer - oliver
+$query = mysqli_query($conn, "SELECT * FROM tbl_footer");
+while($row = mysqli_fetch_assoc($query))
+{
+$footer_h2 = $row['footer_h2'];
+$footer_paragraph = $row['footer_paragraph'];
+
+}
+
 ?>
