@@ -36,6 +36,7 @@ while($row = mysqli_fetch_assoc($query))
 {
 $footer_h2 = $row['footer_h2'];
 $footer_paragraph = $row['footer_paragraph'];
+$footer_copyright = $row['$footer_copyright'];
 
 }
 
