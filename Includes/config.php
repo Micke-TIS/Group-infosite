@@ -22,7 +22,7 @@ $menu_contact = $row['menu_contact'];
 }
 
 //Select specific columns from DB
-$query = mysqli_query($conn, "SELECT * FROM tbl_text");
+$query = mysqli_query($conn, "SELECT * FROM tbl_menu_text");
 while($row = mysqli_fetch_assoc($query))
 {
 $menu_h1 = $row['menu_h1'];
