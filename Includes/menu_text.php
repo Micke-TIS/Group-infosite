@@ -8,8 +8,7 @@
                 <div class="left-text col-lg-6 col-md-12 col-sm-12 col-xs-12"
                     data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                     <h1><?php echo $menu_h1; ?></h1>
-                    <p>Lava <a href="#">HTML landing page</a> template is provided by <a href="#">TemplateMo</a>.
-                       You can modify and use it for your commercial websites for free of charge. This template is last updated on 29 Oct 2019.</p>
+                    <p><?php echo $menu_paragrapth; ?></p>
                     <a href="#about" class="main-button-slider">KNOW US BETTER</a>
                 </div>
             </div>
