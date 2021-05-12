@@ -51,10 +51,9 @@
             </div>
         </div>
         <div class="row">
-            <div class=<?php echo $footer_copyright; ?>"col-lg-12">
-                <div class="sub-footer">
-                    <p></p>
-                </div>
+          <div class="sub-footer">
+<p><?php echo $footer_copyright; ?></p>
+</div>
             </div>
         </div>
     </div>
