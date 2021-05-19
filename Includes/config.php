@@ -21,7 +21,7 @@ $menu_blog = $row['menu_blog'];
 $menu_contact = $row['menu_contact'];
 }
 
-//Select specific columns from DB -> Menu_text Mateusz
+//Select specific columns from DB tbl_menu_text - mateusz
 $query = mysqli_query($conn, "SELECT * FROM tbl_menu_text");
 while($row = mysqli_fetch_assoc($query))
 {
