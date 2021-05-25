@@ -1,3 +1,6 @@
+<?php
+include_once("includes/config.php");
+?>
 <!-- ***** Welcome Area Start ***** -->
 <div class="welcome-area" id="welcome">
 
