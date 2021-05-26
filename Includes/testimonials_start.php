@@ -72,7 +72,7 @@
                                 <li><i class="fa fa-star"></i></li>
                             </ul>
                             <h4><?php echo $testimonials_h5; ?></h4>
-                            <p><?php echo $testimonials_paragrapth; ?></p>
+                            <p><?php echo $testimonials_paragrapth4; ?></p>
                             <span>New Villager</span>
                         </div>
                     </div>
