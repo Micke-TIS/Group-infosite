@@ -40,4 +40,19 @@ $footer_copyright = $row['footer_copyright'];
 
 }
 
+//Select specific columns from DB tbl_testimonials- mateusz
+$query = mysqli_query($conn, "SELECT * FROM tbl_menu_text");
+while($row = mysqli_fetch_assoc($query))
+{
+$testimonials_h1 = $row['testimonials_h1'];
+$testimonials_paragrapth = $row['testimonials_paragrapth'];
+$testimonials_h2 = $row['testimonials_h2'];
+$testimonials_paragrapth2 = $row['testimonials_paragrapth2'];
+$testimonials_h3 = $row['testimonials_h3'];
+$testimonials_paragrapth3 = $row['testimonials_paragrapth3'];
+$testimonials_h4 = $row['testimonials_h4'];
+$testimonials_paragrapth4 = $row['testimonials_paragrapth4'];
+$testimonials_paragrapth5 = $row['testimonials_paragrapth5'];
+
+}
 ?>

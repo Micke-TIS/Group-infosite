@@ -4,9 +4,8 @@
         <div class="row">
             <div class="col-lg-8 offset-lg-2">
                 <div class="center-heading">
-                    <h2>What They Think <em>About Us</em></h2>
-                    <p>Suspendisse vitae laoreet mauris. Fusce a nisi dapibus, euismod purus non, convallis odio.
-                        Donec vitae magna ornare, pellentesque ex vitae, aliquet urna.</p>
+                    <h2><?php echo $testimonials_h1; ?></h2>
+                    <p><?php echo $testimonials_paragrapth; ?></p>
                 </div>
             </div>
             <div class="col-lg-10 col-md-12 col-sm-12 mobile-bottom-fix-big"
@@ -24,9 +23,8 @@
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                             </ul>
-                            <h4>Jonathan Smart</h4>
-                            <p>“Nullam hendrerit, elit a semper pharetra, ipsum nibh tristique tortor, in tempus
-                                urna elit in mauris.”</p>
+                            <h4><?php echo $testimonials_h2; ?></h4>
+                            <p><?php echo $testimonials_paragrapth2; ?></p>
                             <span>Besta CTO</span>
                         </div>
                     </div>
@@ -42,9 +40,8 @@
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                             </ul>
-                            <h4>Martino Tino</h4>
-                            <p>“Morbi non mi luctus felis molestie scelerisque. In ac libero viverra, placerat est
-                                interdum, rhoncus leo.”</p>
+                            <h4><?php echo $testimonials_h3; ?></h4>
+                            <p><?php echo $testimonials_paragrapth3; ?></p>
                             <span>Web Analyst</span>
                         </div>
                     </div>
@@ -58,9 +55,8 @@
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                             </ul>
-                            <h4>George Tasa</h4>
-                            <p>“Fusce rutrum in dolor sit amet lobortis. Ut at vehicula justo. Donec quam dolor,
-                                congue a fringilla sed, maximus et urna.”</p>
+                            <h4><?php echo $testimonials_h4; ?></h4>
+                            <p><?php echo $testimonials_paragrapth4; ?></p>
                             <span>System Admin</span>
                         </div>
                     </div>
@@ -75,9 +71,8 @@
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                             </ul>
-                            <h4>Sir James</h4>
-                            <p>"Fusce rutrum in dolor sit amet lobortis. Ut at vehicula justo. Donec quam dolor,
-                                congue a fringilla sed, maximus et urna."</p>
+                            <h4><?php echo $testimonials_h5; ?></h4>
+                            <p><?php echo $testimonials_paragrapth; ?></p>
                             <span>New Villager</span>
                         </div>
                     </div>
