@@ -4,6 +4,22 @@
         <div class="footer-content">
             <div class="row">
                 <!-- ***** Contact Form Start ***** -->
+                <!-- My cool form -->
+<form id="myForm" method="post" action="includes/process/process.php">
+First name:<br>
+<input type="text" name="first_name">
+<br>
+Last name:<br>
+<input type="text" name="last_name">
+<br>
+City name:<br>
+<input type="text" name="city_name">
+<br>
+Email Id:<br>
+<input type="email" name="email">
+<br><br>
+<input type="submit" name="save" value="submit">
+</form>
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="contact-form">
                         <form id="contact" action="" method="post">
