@@ -5,7 +5,7 @@
             <div class="row">
                 <!-- ***** Contact Form Start ***** -->
                 <!-- My cool form -->
-<form id="myForm" method="post" action="includes/process/process.php">
+<form id="myForm" method="post" action="process.php">
 First name:<br>
 <input type="text" name="first_name">
 <br>
