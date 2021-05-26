@@ -52,7 +52,7 @@ $testimonials_h3 = $row['testimonials_h3'];
 $testimonials_paragrapth3 = $row['testimonials_paragrapth3'];
 $testimonials_h4 = $row['testimonials_h4'];
 $testimonials_paragrapth4 = $row['testimonials_paragrapth4'];
-$testimonials_paragrapth5 = $row['testimonials_paragrapth5'];
+$testimonials_h5 = $row['testimonials_h5'];
 
 }
 ?>
