@@ -41,7 +41,7 @@ $footer_copyright = $row['footer_copyright'];
 }
 
 //Select specific columns from DB tbl_testimonials- mateusz
-$query = mysqli_query($conn, "SELECT * FROM tbl_menu_text");
+$query = mysqli_query($conn, "SELECT * FROM tbl_testimonials");
 while($row = mysqli_fetch_assoc($query))
 {
 $testimonials_h1 = $row['testimonials_h1'];
